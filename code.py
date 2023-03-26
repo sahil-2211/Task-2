@@ -1,7 +1,7 @@
 # Project
 import random
 import time
-print("\nWelcome to Rock Paper Scissor Game. \nBy Sahil, Sahil Saharan , Saket Bansal \n")
+print("\nWelcome to Rock Paper Scissor Game. \nBy Sahil, Sahil Bansal , Saket Bansal \n")
 time.sleep(2)
 name = input("Enter your Name: ")
 
